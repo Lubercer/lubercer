@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=+Bienvenidxs!;Mi+nombre+es+Luna+Bercernelo;Desarrolladora+JR;HTML+CSS+JS+REACT+%3C3"></a>
+</p>
 <!--
 **Lubercer/lubercer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
