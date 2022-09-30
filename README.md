@@ -1,7 +1,7 @@
 
 ![Blanco y Azul Bokeh Página Web Banner (1)](https://user-images.githubusercontent.com/104109557/186052615-064899cc-6747-4fa1-b1c1-aff5fbf2abeb.png)
 <p align="center">
-   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%6DBDFF&center=true&vCenter=true&lines=+Bienvenidxs!;Mi+nombre+es+Luna+Bercernelo;Desarrolladora+JR;HTML+CSS+JS+REACT+%3C3"></a>
+   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%6DBDFF&center=true&vCenter=true&lines=+Bienvenidxs!;Mi+nombre+es+Luna+Bercernelo;Desarrolladora+TRAINEE/JR;HTML+CSS+JS+REACT+%3C3"></a>
 </p>
 <p align="center"> 
 🛠️ My Skills
